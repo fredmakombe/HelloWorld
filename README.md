@@ -1,1 +1,1 @@
-Hello world
+Jenkins SCM trigger test

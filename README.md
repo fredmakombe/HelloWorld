@@ -1,1 +1,1 @@
-Jenkins SCM trigger test
+Jenkins scm trigger test
